@@ -1,0 +1,15 @@
+/Users/fionagill/Desktop/221/lab3ex/bin/Debug/net7.0/lab3ex
+/Users/fionagill/Desktop/221/lab3ex/bin/Debug/net7.0/lab3ex.deps.json
+/Users/fionagill/Desktop/221/lab3ex/bin/Debug/net7.0/lab3ex.runtimeconfig.json
+/Users/fionagill/Desktop/221/lab3ex/bin/Debug/net7.0/lab3ex.dll
+/Users/fionagill/Desktop/221/lab3ex/bin/Debug/net7.0/lab3ex.pdb
+/Users/fionagill/Desktop/221/lab3ex/obj/Debug/net7.0/lab3ex.csproj.AssemblyReference.cache
+/Users/fionagill/Desktop/221/lab3ex/obj/Debug/net7.0/lab3ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fionagill/Desktop/221/lab3ex/obj/Debug/net7.0/lab3ex.AssemblyInfoInputs.cache
+/Users/fionagill/Desktop/221/lab3ex/obj/Debug/net7.0/lab3ex.AssemblyInfo.cs
+/Users/fionagill/Desktop/221/lab3ex/obj/Debug/net7.0/lab3ex.csproj.CoreCompileInputs.cache
+/Users/fionagill/Desktop/221/lab3ex/obj/Debug/net7.0/lab3ex.dll
+/Users/fionagill/Desktop/221/lab3ex/obj/Debug/net7.0/refint/lab3ex.dll
+/Users/fionagill/Desktop/221/lab3ex/obj/Debug/net7.0/lab3ex.pdb
+/Users/fionagill/Desktop/221/lab3ex/obj/Debug/net7.0/lab3ex.genruntimeconfig.cache
+/Users/fionagill/Desktop/221/lab3ex/obj/Debug/net7.0/ref/lab3ex.dll
